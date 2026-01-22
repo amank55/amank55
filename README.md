@@ -103,32 +103,14 @@
 
 ---
 
-## 💭 Random Dev Quote
-
 <div align="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
+💡 "Code is poetry written in logic"
+Crafting elegant solutions, one commit at a time
+<br>
+Let's connect and build something amazing together!
+Show Image
+Show Image
+<br><br>
+<sub>Made with ❤️ by Aman Kumar</sub>
 </div>
-
----
-
-## 📈 Profile Views
-
-<div align="center">
   
-![](https://komarev.com/ghpvc/?username=amank55&style=for-the-badge&color=blueviolet)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-  
-  ### ⚡ *"Building the future, one commit at a time"* ⚡
-  
-  **Thanks for visiting my profile!** 🚀✨
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-</div>
